@@ -4,3 +4,9 @@ C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\obj\Debug\Entit
 C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.csproj.CoreCompileInputs.cache
 C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.dll
 C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.pdb
+C:\Users\n20c1\Documents\GitHub\YazOkuluOtomasyon\DbYazOkulu\EntityKatmani\bin\Debug\EntityKatmani.dll
+C:\Users\n20c1\Documents\GitHub\YazOkuluOtomasyon\DbYazOkulu\EntityKatmani\bin\Debug\EntityKatmani.pdb
+C:\Users\n20c1\Documents\GitHub\YazOkuluOtomasyon\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.csproj.AssemblyReference.cache
+C:\Users\n20c1\Documents\GitHub\YazOkuluOtomasyon\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.csproj.CoreCompileInputs.cache
+C:\Users\n20c1\Documents\GitHub\YazOkuluOtomasyon\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.dll
+C:\Users\n20c1\Documents\GitHub\YazOkuluOtomasyon\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.pdb

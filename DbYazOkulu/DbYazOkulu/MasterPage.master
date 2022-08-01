@@ -18,10 +18,10 @@
                 <a class="navbar-brand" href="#">Yaz Okulu Kayıt Sistemi</a>
             </div>
             <ul class="nav navbar-nav">
-                <li><a href="#">Ana Sayfa</a></li>
+                <li><a href="Default.aspx">Yeni Kayıt</a></li>
                 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">İşlemler<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Öğrenciler</a></li>
+                        <li><a href="OgrenciListesi.aspx">Öğrenciler</a></li>
                         <li><a href="#">Öğretmenler</a></li>
                         <li><a href="#">Dersler</a></li>
                         <li><a href="#">Kontenjan</a></li>

@@ -1,10 +1,18 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="OgrenciGuncelle.aspx.cs" Inherits="OgrenciGuncelle" %>
+
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" runat="Server">
     <form id="Form1" runat="server">
-        <div class="form-group">
+        <div class="form-group ">
+            <div style="background-color: orange; margin-left: 400px; margin-right: 400px; margin-bottom: 30px; font-size: 18px; border: solid 3px; border-radius: 10px; text-align: center"><strong>ÖĞRENCİ GÜNCELLEME SAYFASI</strong></div>
+            <div style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px">
+                <strong>
+                    <asp:Label for="txtid" runat="server" Text="Öğrenci ID"></asp:Label>
+                </strong>
+                <asp:TextBox ID="txtid" runat="server" CssClass="form-control"></asp:TextBox>
+            </div>
             <div style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px">
                 <strong>
                     <asp:Label for="txtad" runat="server" Text="Öğrenci Ad"></asp:Label>
@@ -30,7 +38,7 @@
                 </div>
             </div>
 
-          
+
 
             <div class="form-group">
                 <div style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px">
@@ -42,24 +50,24 @@
             </div>
         </div>
 
-          <div class="form-group">
-                <div style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px">
-                    <strong>
-                        <asp:Label for="txtbakiye" runat="server" Text="Öğrenci Bakiye"></asp:Label>
-                    </strong>
-                    <asp:TextBox ID="txtbakiye" runat="server" CssClass="form-control"></asp:TextBox>
-                </div>
+        <div class="form-group">
+            <div style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px">
+                <strong>
+                    <asp:Label for="txtbakiye" runat="server" Text="Öğrenci Bakiye"></asp:Label>
+                </strong>
+                <asp:TextBox ID="txtbakiye" runat="server" CssClass="form-control"></asp:TextBox>
             </div>
+        </div>
 
-          <div class="form-group">
-                <div style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px">
-                    <strong>
-                        <asp:Label for="txtfoto" runat="server" Text="Öğrenci Fotoğraf"></asp:Label>
-                    </strong>
-                    <asp:TextBox ID="txtfoto" runat="server" CssClass="form-control"></asp:TextBox>
-                </div>
+        <div class="form-group">
+            <div style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px">
+                <strong>
+                    <asp:Label for="txtfoto" runat="server" Text="Öğrenci Fotoğraf"></asp:Label>
+                </strong>
+                <asp:TextBox ID="txtfoto" runat="server" CssClass="form-control"></asp:TextBox>
             </div>
-        <asp:Button style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px" ID="Button1" runat="server" Text="KAYDET" OnClick="Button1_Click1" CssClass="btn btn-info" />
+        </div>
+        <asp:Button Style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px" ID="Button1" runat="server" Text="KAYDET" CssClass="btn btn-warning" OnClick="Button1_Click" />
     </form>
 </asp:Content>
 
