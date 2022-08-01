@@ -1,0 +1,9 @@
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\bin\Debug\EntityKatmani.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\bin\Debug\EntityKatmani.pdb
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

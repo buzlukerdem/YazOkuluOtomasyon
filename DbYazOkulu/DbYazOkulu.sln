@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DbYazOkulu", "DbYazOkulu\", "{DCF6B9B5-5423-4302-9E6B-E832968AC94A}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{6c69cd8b-9d95-4352-9713-efca54e48fc4}|BusinessLogicLayer.dll;{da6d7c23-e3f7-44f2-bd0b-52b3e430295c}|DataAccessLayer.dll;{d280d65b-60f7-49a0-b67e-a853f49ed9e9}|EntityKatmani.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55546"
 		Debug.AspNetCompiler.PhysicalPath = "DbYazOkulu\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55546\"
@@ -25,13 +26,34 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DbYazOkulu", "DbYazOkulu\",
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityKatmani", "EntityKatmani\EntityKatmani.csproj", "{D280D65B-60F7-49A0-B67E-A853F49ED9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{DA6D7C23-E3F7-44F2-BD0B-52B3E430295C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{6C69CD8B-9D95-4352-9713-EFCA54E48FC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DCF6B9B5-5423-4302-9E6B-E832968AC94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DCF6B9B5-5423-4302-9E6B-E832968AC94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF6B9B5-5423-4302-9E6B-E832968AC94A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF6B9B5-5423-4302-9E6B-E832968AC94A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D280D65B-60F7-49A0-B67E-A853F49ED9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D280D65B-60F7-49A0-B67E-A853F49ED9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D280D65B-60F7-49A0-B67E-A853F49ED9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D280D65B-60F7-49A0-B67E-A853F49ED9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6D7C23-E3F7-44F2-BD0B-52B3E430295C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6D7C23-E3F7-44F2-BD0B-52B3E430295C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6D7C23-E3F7-44F2-BD0B-52B3E430295C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6D7C23-E3F7-44F2-BD0B-52B3E430295C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C69CD8B-9D95-4352-9713-EFCA54E48FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C69CD8B-9D95-4352-9713-EFCA54E48FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C69CD8B-9D95-4352-9713-EFCA54E48FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C69CD8B-9D95-4352-9713-EFCA54E48FC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\bin\Debug\EntityKatmani.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\bin\Debug\EntityKatmani.pdb
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.csproj.AssemblyReference.cache
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.csproj.CoreCompileInputs.cache
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\EntityKatmani\obj\Debug\EntityKatmani.pdb

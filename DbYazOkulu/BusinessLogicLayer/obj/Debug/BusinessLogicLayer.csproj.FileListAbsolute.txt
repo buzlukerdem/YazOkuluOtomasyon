@@ -1,0 +1,11 @@
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\bin\Debug\EntityKatmani.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\bin\Debug\EntityKatmani.pdb
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\n20c1\Desktop\Calismalarim\ASP\DbYazOkulu\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
