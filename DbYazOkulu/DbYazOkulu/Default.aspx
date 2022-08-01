@@ -7,7 +7,7 @@
         <div class="form-group">
             <div style="margin-left: 400px; margin-right: 400px; margin-bottom: 30px">
                 <strong>
-                    <asp:Label for="txtad" runat="server" Text="Öğrenci Ad"></asp:Label>
+                    <asp:Label for="txtadd" runat="server" Text="Öğrenci Ad"></asp:Label>
                 </strong>
                 <asp:TextBox ID="txtad" runat="server" CssClass="form-control"></asp:TextBox>
             </div>
