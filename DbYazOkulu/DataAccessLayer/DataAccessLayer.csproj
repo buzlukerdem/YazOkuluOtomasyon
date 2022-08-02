@@ -41,8 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DALDers.cs" />
     <Compile Include="DALOgrenci.cs" />
     <Compile Include="Baglanti.cs" />
+    <Compile Include="DALOgretmen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

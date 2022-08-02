@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntityKatmani
 {
-    class Basvurular
+    public class Basvurular
     {
         private int basvuruid;
         private int basvuruogrid;

@@ -82,6 +82,7 @@ namespace DataAccessLayer
             while (dr.Read())
             {
                 EntityOgrenci ent = new EntityOgrenci();
+                ent.Ogrid = Convert.ToInt32(dr["OgrenciID"]);
                 ent.Ad = dr["OgrenciAd"].ToString();
                 ent.Soyad = dr["OgrenciSoyad"].ToString();
                 ent.Numara = dr["OgrenciNumara"].ToString();

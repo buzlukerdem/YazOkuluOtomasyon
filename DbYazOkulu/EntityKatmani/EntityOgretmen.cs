@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntityKatmani
 {
-    class EntityOgretmen
+    public class EntityOgretmen
     {
         private int ogrtid;
         private string adsoyad;

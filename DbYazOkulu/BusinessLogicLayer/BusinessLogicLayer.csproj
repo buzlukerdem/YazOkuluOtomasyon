@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BBLOgrenci.cs" />
+    <Compile Include="BLLDers.cs" />
+    <Compile Include="BLLOgretmen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

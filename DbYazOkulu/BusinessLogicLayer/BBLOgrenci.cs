@@ -10,6 +10,7 @@ namespace BusinessLogicLayer
 {
     public class BBLOgrenci
     {
+        // executeNonQuery bize bir sayı dönderdigi icin int olarak tanımlandı.
         public static int OgrenciEkleBLL(EntityOgrenci p)
         {
             if(p.Ad != null && p.Soyad != null && p.Numara != null && p.Fotograf != null && p.Sifre != null)

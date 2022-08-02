@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" runat="Server">
-    <table class="table table-bordered table-hover">
+    <table class="table table-bordered table-hover" style="height: 140px">
         <tr>
             <th>Öğrenci ID</th>
             <th>Öğrenci Ad</th>
