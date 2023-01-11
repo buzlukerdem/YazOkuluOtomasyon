@@ -13,6 +13,8 @@ namespace EntityKatmani
         private int min;
         private int max;
 
+        
+
         public int Dersid { get => dersid; set => dersid = value; }
         public string Dersad { get => dersad; set => dersad = value; }
         public int Min { get => min; set => min = value; }

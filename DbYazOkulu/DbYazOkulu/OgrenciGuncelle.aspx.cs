@@ -30,6 +30,7 @@ public partial class OgrenciGuncelle : System.Web.UI.Page
 
     protected void Button1_Click(object sender, EventArgs e)
     {
+        #region OgrenciGuncellemeEntity
         EntityOgrenci ent = new EntityOgrenci();
         ent.Ogrid = Convert.ToInt32(txtid.Text);
         ent.Ad = txtad.Text;
@@ -39,6 +40,7 @@ public partial class OgrenciGuncelle : System.Web.UI.Page
         ent.Bakiye = txtbakiye.Text;
         ent.Fotograf = txtfoto.Text;
         BBLOgrenci.OgrenciGuncelleBLL(ent);
-        Response.Redirect("OgrenciListesi.aspx");
+        Response.Redirect("OgrenciListesi.aspx"); 
+        #endregion
     }
 }
